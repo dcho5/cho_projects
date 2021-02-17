@@ -1,0 +1,15 @@
+What was the Bug: Upon startup System continues to bootloop.
+What was the Solution: tried to initialize LDT with GDT, when only trying to initialize GDT system boots properly.
+How long to fix:
+
+What was the Bug:When booting up the system the screen prints Invalid Magic Number: with a hex number
+What was the Solution: saving certain registers in Boot.S when calling a function fixed this issue 
+How long to fix:
+
+What was the Bug:
+What was the Solution:
+How long to fix:
+
+What was the Bug:
+What was the Solution:
+How long to fix:
