@@ -61,7 +61,7 @@ ul {
 
 div {
     text-align: center;
-    margin: 45px;
+    margin: 35px;
 }
 
 p {
@@ -102,4 +102,16 @@ p {
 
 .left_al {
     text-align: left;
+}
+
+.box {
+    margin: 10px;
+    font-size: 15px;
+    width: 275px;
+}
+
+#msg {
+    width: 500px;
+    height: 300px;
+    font-family: arial;
 }
