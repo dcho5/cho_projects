@@ -1,0 +1,105 @@
+html {
+    background: repeating-linear-gradient(145deg,
+    rgba(0, 163, 204, 0.5), rgba(0, 163, 204, 0.5) 150px, 
+    rgba(231, 72, 101, 0.5) 150px, rgba(231, 72, 101, 0.5) 300px, 
+    rgba(255, 255, 0, 0.5) 300px, rgba(255, 255, 0, 0.5) 450px, 
+    rgba(0, 0, 0, 0.5) 450px, rgba(0, 0, 0, 0.5) 600px);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+head {
+
+}
+
+body {
+    background: white;
+    margin: 0 10% 0 10%;
+}
+
+footer {
+    border-top-style: ridge;
+    border-width: 1px;
+    font-size: 11px;
+    text-align: center;
+}
+
+footer div {
+    margin: 0 15% 0 15%;
+}
+
+nav {
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.ibm {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ibm a {
+    padding: 6px 70px 6px 70px;
+    text-decoration: none;
+    color: black;
+    background: white;
+}
+
+#self {
+    padding-bottom: 9px;
+}
+
+body header {
+    text-align: center;
+    border-bottom-style: outset;
+    padding-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+div {
+    text-align: center;
+    margin: 45px;
+}
+
+p {
+    margin: 25px 17.5% 25px 17.5%;
+}
+
+#nav_bar {
+    text-align: center;
+    padding: 24px 0 8px 0;
+}
+
+#nav_bar li a:hover {
+    text-decoration: underline;
+}
+
+#logo {
+    text-align: left;
+}
+
+#search_bar input[type=text] {
+    background: rgb(243, 243, 243);
+    border-style: none;
+    width: 350px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#search_bar button {
+    font-size: 20px;
+}
+
+.h {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(47, 140, 184);
+    margin: 20px;
+}
+
+.left_al {
+    text-align: left;
+}
