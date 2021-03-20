@@ -1,1 +1,1 @@
-# cho_projects
+**Welcome to Daniel's programming projects**
